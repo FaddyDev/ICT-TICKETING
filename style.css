@@ -1,0 +1,77 @@
+html{
+  height: 100%;
+}
+body{
+  height: 100%; width: 100%;
+  padding: 0; padding-bottom: 50%;
+  background-image: url(helpdesk.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-attachment: fixed;
+}
+#Everything{
+  overflow-x: hidden;
+}
+
+#Content{
+  opacity: 0.9;}
+#topnav{
+  width:100%; 
+  background-color: #1bcc57; 
+  text-align:center; 
+  font-family: cambria; 
+  font-size: 150%; 
+  justify-content: center; 
+  align-items: center; 
+  color:  #784212 ; 
+  border-radius: 50px 50px 15px 15px;
+}
+#Slide{
+  width:100%; 
+  color: #000000;
+  height: 50px; 
+  margin: 0 auto;
+  margin-top: +20px; 
+  font-family: Helvetica Condensed;
+}
+#formo{
+  color: #17202a; 
+  width: 100%;
+  text-align: center;
+}
+#center{
+  min-height:500px; 
+  text-align:center; 
+  font-size: 150%; 
+  font-family: "Lucida Console";
+  background-color: rgba(255,255,255, 0.5);
+}
+.side{  
+  background-color: #0078EF; 
+  font-family: Arial; 
+  margin: 0 auto; 
+  min-height:500px; 
+  text-align: center; 
+  font-style: italic; 
+  border-radius: 25px 25px 25px 25px;
+}
+
+#main{
+  background-color: #F0E68C;
+  align-items: center; 
+  color: #17202a;
+  width: 100%; 
+  font-family: "Times New Roman"; 
+}
+
+#footer_inner{
+  border-radius: 1px 1px 100px 100px; 
+  width: 80%; ffloat: left; 
+  margin: auto;
+  align-items: center; 
+  justify-content: center; 
+  background-color: #1bcc57; 
+  margin-top: +30px;
+  text-align: center;
+}
